@@ -1,6 +1,7 @@
 # main.py
 
 
+
 from src.utils import add_numbers, multiply_numbers
 
 def main():
@@ -29,3 +30,7 @@ def main():
     print(f"The product of {a} and {b} is: {product_result}")
 
 if __name__ == "__main__":
+
+if __name__ == "__main__":
+    print("Hello, world!")
+

@@ -1,5 +1,6 @@
 # utils.py
 def example_function():
+
     pass
 
 def add_numbers(a, b):
@@ -19,3 +20,6 @@ def multiply_numbers(a, b):
     :return: Результат умножения a на b.
     """
     return a * b
+
+    pass
+

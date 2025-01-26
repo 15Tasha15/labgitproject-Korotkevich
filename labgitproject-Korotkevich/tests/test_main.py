@@ -7,6 +7,7 @@ class TestMain(unittest.TestCase):
         self.assertEqual(1, 1)
 
 if __name__ == '__main__':
+
     unittest.main()
 
 import unittest
@@ -24,4 +25,5 @@ class TestUtils(unittest.TestCase):
         self.assertEqual(multiply_numbers(0, 5), 0)
 
 if __name__ == '__main__':
+
     unittest.main()
