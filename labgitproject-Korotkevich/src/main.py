@@ -1,6 +1,5 @@
 # main.py
-if __name__ == "__main__":
-    print("Hello, world!")
+
 
 from src.utils import add_numbers, multiply_numbers
 
